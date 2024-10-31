@@ -39,7 +39,7 @@
 <img align="right" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="320" height="200" />
 
 <p align="left">
-<a href="https://wa.me/918341055029" target="blank"><img align="center" src="icons/whatsapp.png" alt="WhatSapp" height="50" width="50" /></a>
+<a href="https://wa.me/918341055029" target="blank"><img align="center" src="icons/whatsapp.png" alt="Whatsapp" height="50" width="50" /></a>
 <a href="mailto:mskrishna621@gmail.com" target="blank"><img align="center" src="icons/gmail.png" alt="Gmail" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@srisaikrishna8564" target="blank"><img align="center" src="icons/youtube.png" alt="Youtube" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/srisaikrishna-7639612b9" target="blank"><img align="center" src="icons/linkedin.png" alt="Linkedin" height="50" width="50" /></a>
