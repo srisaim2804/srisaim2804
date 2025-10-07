@@ -9,12 +9,12 @@
 
 <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🎓 I am currently pursuing my 3rd year of B.Tech in Computer Science at IIITH Hyderabad.
-- 🔭 I am actively searching for internship opportunities.
+- 🎓 I am currently pursuing my 4th year of B.Tech in Computer Science at IIITH Hyderabad.
+- 🔭 I am actively searching for job opportunities.
 - 🫂 I am eager to collaborate on projects that will help me master my skills and learn new ones for my future.
 - ☁️ Feel free to ask me anything!
-- 🌱 Currently I am intrested in App Development, So i am learning Kotlin
-- 🎮 In my free time, I enjoy playing various gacha games and coding small games.
+- 🌱 Currently I am intrested in Game & App Development.
+- 🎮 In my free time, I enjoy playing various games and coding small games.
 - 📫 You can reach out to me at **msrisaik2004@outlook.com**. I’d love to connect!
 
 <h2><img align= "left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Languages And Tools </h2>
@@ -24,14 +24,7 @@
   </a>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/srisaim2804/srisaim2804/raw/output/github-contribution-grid-snake.svg)
-
 <h2> <img align= "left" <img align= "left" src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My Current Stats </h2>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srisaim2804&theme=dark&background=000000)](https://git.io/streak-stats) [![Srisai's GitHub stats](https://github-readme-stats.vercel.app/api?username=srisaim2804&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srisaim2804&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2> <img align= "left" src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect With Me </h2>
