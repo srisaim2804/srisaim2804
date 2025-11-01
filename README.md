@@ -3,7 +3,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hey Buddy <img align="center" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" h>, Myself Srisai Krishna</h1></summary>
+    <summary><h1 style="display: inline-block">Hey Buddy <img align="center" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="45px">, Myself Srisai Krishna</h1></summary>
   </ul>
 </div>
 
@@ -17,17 +17,20 @@
 - 🎮 In my free time, I enjoy playing various games and coding small games.
 - 📫 You can reach out to me at **msrisaik2004@outlook.com**. I’d love to connect!
 
-<h2><img align= "left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Languages And Tools </h2>
+<h2><img align= "left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> &nbsp; Languages And Tools </h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,aws,swift,express,figma,bash,git,github,html,css,javascript,nginx,mysql,mongodb,nextjs,python,react,linux,kubernetes&perline=20" />
   </a>
 </p>
 
-<h2> <img align= "left" <img align= "left" src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My Current Stats </h2>
+<h2> <img align= "left" <img align= "left" src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = "35" > &nbsp; My Current Stats </h2>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srisaim2804&layout=compact&theme=tokyonight)
 
-<h2> <img align= "left" src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect With Me </h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srisaim2804&theme=tokyonight" alt="srisaim2804" /></p>
+
+<h2> <img align= "left" src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70" height="40"> Connect With Me </h2>
 
 <img align="right" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="320" height="200" />
 
@@ -36,9 +39,8 @@
 <a href="mailto:mskrishna621@gmail.com" target="blank"><img align="center" src="icons/gmail.png" alt="Gmail" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@srisaikrishna8564" target="blank"><img align="center" src="icons/youtube.png" alt="Youtube" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/srisaikrishna-7639612b9" target="blank"><img align="center" src="icons/linkedin.png" alt="Linkedin" height="50" width="50" /></a>
-<a href=""https://x.com/SrisaiKrishna17" target="blank"><img align="center" src="icons/twitter.png" alt="Twitter" height="50" width="50" /></a> 
+<a href=""https://x.com/Silver_2811" target="blank"><img align="center" src="icons/twitter.png" alt="Twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/srisai_krishna_3108/" target="blank"><img align="center" src="icons/instagram.png" alt="Instagram" height="50" width="50" /></a>
-<a href="https://www.facebook.com/srisai.krishna.144/" target="blank"><img align="center" src="icons/facebook.png" alt="Facebook" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/silver_3108" target="blank"><img align="center" src="icons/discord.png" alt="Discord" height="50" width="50" /></a>
 <a href="https://www.reddit.com/u/Silver_1115" target="blank"><img align="center" src="icons/reddit.png" alt="Reddit" height="50" width="50" /></a>
 
